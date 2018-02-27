@@ -1,0 +1,4 @@
+#Mon Feb 26 19:20:15 EST 2018
+base.0=C\:\\Users\\CSGRADSTUDENT\\Desktop\\New folder\\CollegeConnect\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\3
+path.0=classes.dex
+renamed.0=classes.dex
